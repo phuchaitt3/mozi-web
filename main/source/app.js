@@ -16,12 +16,12 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 // GOOGLE OAUTH
 // const session = require('express-session');
 // const passport = require('passport');
-const { google } = require("googleapis");
-const oauth2Client = new google.auth.OAuth2(
-  "***REMOVED***",
-  "***REMOVED***",
-  "http://localhost:3000/auth/google/callback"
-);
+// const { google } = require("googleapis");
+// const oauth2Client = new google.auth.OAuth2(
+//   "***REMOVED***",
+//   "***REMOVED***",
+//   "http://localhost:3000/auth/google/callback"
+// );
 // const authRoutes = require('../controllers/auth.controller')(oauth2Client);
 
 const liveReloadServer = livereload.createServer();
