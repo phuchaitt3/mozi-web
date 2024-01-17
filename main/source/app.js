@@ -20,7 +20,6 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 // const oauth2Client = new google.auth.OAuth2(
 //   "***REMOVED***",
 //   "***REMOVED***",
-//   "http://localhost:3000/auth/google/callback"
 // );
 // const authRoutes = require('../controllers/auth.controller')(oauth2Client);
 
