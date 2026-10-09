@@ -6,8 +6,8 @@ const { google } = require("googleapis");
  * https://console.cloud.google.com/apis/credentials.
  */
 const oauth2Client = new google.auth.OAuth2(
-  "***REMOVED***",
-  "***REMOVED***",
+  "",
+  "",
   `http://${process.env.HOST}:3000/auth/google/callback`
 );
 

@@ -18,8 +18,8 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 // const passport = require('passport');
 // const { google } = require("googleapis");
 // const oauth2Client = new google.auth.OAuth2(
-//   "***REMOVED***",
-//   "***REMOVED***",
+//   "",
+//   "",
 // );
 // const authRoutes = require('../controllers/auth.controller')(oauth2Client);
 
