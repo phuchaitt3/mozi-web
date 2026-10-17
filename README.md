@@ -1,4 +1,4 @@
-# HCMUS-WebAppDev
+# Mozi E-Commerce Web App (Academic Project)
 
 ## Table of Contents
 
